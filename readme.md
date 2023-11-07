@@ -1,4 +1,4 @@
-7. BUILD AND TEST MAVEN PROJECT THROUGH SELENIUM
+BUILD AND TEST MAVEN PROJECT THROUGH SELENIUM
 ----> 1. Install java project with this command : mvn archetype:generate -DgroupId=com.example -
 DartifactId=JavProject -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 2. Open in vs
